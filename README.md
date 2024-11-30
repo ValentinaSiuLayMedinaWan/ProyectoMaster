@@ -1,2 +1,4 @@
 # ProyectoMaster
-Archivo de Google Sheets: https://docs.google.com/spreadsheets/d/181uuqGjqAuoCSlFSg2PcNfKxrMz_R8XkxMrtwWCLiUs/edit?usp=sharing
+He descargado los datos de Kaggle y los he importado a Google Sheets, y los convertí en tabla para poder manejar mejor los datos.
+Lo primero que hice fue revisar si había datos repetidos y/o celdas vacías, al verificar eso, pase los datos que son números a ese formato y los que son precios/dinero a su formato correspondiente.
+Lo siguiente fue empezar el analisis, el cual enfoque en que es lo que más afecta a los usuarios/jugadores a la hora de calificar/valorar un juego, para lo cual realice varias tablas para determinarlo. Y a la conclusión a la que llegue es que el género, la plataforma, los gráficos, el soundtrack, la historia, el si requiere o no dispositivos especiales, e incluso el precio no son factores determinantes a la hora de calificar los juegos, sino más bien la cantidad de tiempo que los jugadores invierten en el juego es un factor determinante a la hora de calificar un juego ya que entre más tiempo pase el usuario jugando, mayor va a ser la calificación este que le de. 
